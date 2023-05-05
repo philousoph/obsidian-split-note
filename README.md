@@ -28,3 +28,5 @@ In my firt version I tried to split a note at the cursor psoition, and that work
 
 One thing I would like to add is the functionality to merge the selected notes into the first note selected. Just being the logical counterpart of split note. But I haven't been succesfull in doing so, so for now I'm afraid this won't be added.
 
+## ToDo
+I just checked and the commands don't work inside of the Canvas. That's sad...
